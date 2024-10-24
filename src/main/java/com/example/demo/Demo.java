@@ -10,7 +10,7 @@ public class Demo {
 	
 	@GetMapping("/request")
 	private String getResponse() {
-		return "OK3";
+		return "OK";
 	}
 
 }
